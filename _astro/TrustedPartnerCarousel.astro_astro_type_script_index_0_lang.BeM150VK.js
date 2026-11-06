@@ -1,0 +1,1 @@
+import{S as t,A as a}from"./autoplay.BvnEiRA_.js";function e(){new t(".partner-slider",{modules:[a],speed:1e3,loop:!0,autoplay:{delay:3e3,disableOnInteraction:!1},slidesPerView:2,spaceBetween:30,breakpoints:{992:{slidesPerView:4,spaceBetween:70},768:{slidesPerView:3,spaceBetween:50}}})}document.readyState==="loading"?document.addEventListener("DOMContentLoaded",e):e();
